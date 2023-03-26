@@ -1,5 +1,3 @@
-package coffeeMachine;
-
 public class CoffeeMachinePart1 {
     public static void main(String[] args) {
         System.out.println("Starting to make a coffee");
