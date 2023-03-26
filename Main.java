@@ -1,11 +1,13 @@
-public class Main {
-    /**
-     * would do this project as next ASAP after another stuff.
-     * now just started it to not forget Git.
-     * if you read this, I wish to a good day!
-     * @param args
-     */
+package machine;
+
+public class CoffeeMachine {
     public static void main(String[] args) {
-        System.out.println("Hello Coffee!");
+        System.out.println("Starting to make a coffee");
+        System.out.println("Grinding coffee beans");
+        System.out.println("Boiling water");
+        System.out.println("Mixing boiled water with crushed coffee beans");
+        System.out.println("Pouring coffee into the cup");
+        System.out.println("Pouring some milk into the cup");
+        System.out.print("Coffee is ready!");
     }
 }
