@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-package machine;
+package coffeeMachine;
 
-=======
->>>>>>> 1444de6 (attached more files)
 public class CoffeeMachinePart1 {
     public static void main(String[] args) {
         System.out.println("Starting to make a coffee");
@@ -14,7 +11,3 @@ public class CoffeeMachinePart1 {
         System.out.print("Coffee is ready!");
     }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 1444de6 (attached more files)

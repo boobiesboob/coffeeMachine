@@ -1,3 +1,5 @@
+package coffeeMachine;
+
 import java.util.Scanner;
 
 public class CoffeeMachinePart2 {
